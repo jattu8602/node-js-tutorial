@@ -1,0 +1,50 @@
+What is node js?
+
+Node js is a javascript runtime built on chrome,s v8 Javascript engine
+
+Node.js is a javascript running on the server
+
+It allows developers to run javascript code outside of a browser which makes it highly suitable for building server-side-side that uses an event-driven, side using google's V8 engine
+
+-----------------------------------------------------------------------------------------
+
+
+History of Node.js
+In 2009 an idea came in the mind of Ryan Dahl (Google Engineer ) that why not run javascript outside browser , so he took v8 engine and enbeded in a c++ program and called it NOde.exe later on become node.js
+
+-----------------------------------------------------------------------------------------
+
+js- Server Fun Fact
+
+In 1995 Netscape written a program called Netscape enterprise Server which allowed Developer to run javascript at server side
+
+-----------------------------------------------------------------------------------------
+
+When to use Node js?
+
+i/0 bound 
+Data streaming Applications
+Real time applications (chat apps)
+Building scalable network protocol servers
+Single Page Application(SPA) development with Node and Express
+
+
+How does it work?
+
+1. Write your code in JavaScript
+2. Use the V8 Engine from Google
+
+----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
